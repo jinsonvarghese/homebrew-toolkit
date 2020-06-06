@@ -7,7 +7,7 @@ A toolkit aiming to help **automate** some of the initial tests done when starti
 Scans include checks for missing HTTP security headers, subdomains, SSL issues, port scans, etc. by leveraging popular tools like Nikto, Nmap, OWASP Amass and others. 
 
 + More tools will be added in the future.
-+ This toolkit can be set up using Docker on Linux or MacOS.
++ This toolkit can also be set up using Docker on Linux or MacOS. More information can be found at https://www.jinsonvarghese.com/vapt-toolkit/.
 
 # Steps to set it up
 
