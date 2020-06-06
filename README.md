@@ -18,4 +18,4 @@ Scans include checks for missing HTTP security headers, subdomains, SSL issues, 
 
 + Email: contact@jinsonvarghese.com
 + Website: https://www.jinsonvarghese.com
-+ GitHub: https://github.com/jinsonvarghese/VAPT-Toolkit
++ GitHub: https://github.com/jinsonvarghese/Cybersecurity
